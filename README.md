@@ -1,2 +1,3 @@
 # cell-nucleus-detection
-open main.m. change code below as your address of cell picture
+open main.m and change code below as your path of cell picture
+
